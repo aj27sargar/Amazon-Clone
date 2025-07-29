@@ -77,5 +77,3 @@ Contributions are welcome! Feel free to fork and enhance it further.
 ## 📄 License
 
 This project is for learning purposes and not affiliated with Amazon.
-
-```
